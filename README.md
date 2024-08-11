@@ -1,4 +1,4 @@
-🌟 ¡Hola! Soy Pacosotto 👋
+🌟 ¡Hola! Soy pacosotto 👋
 
 Soy un Desarrollador Web especializado en Front-End, pero también tengo conocimientos en Back-End. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías modernas. 🚀
 
