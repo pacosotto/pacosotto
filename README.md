@@ -7,9 +7,9 @@ Soy un Desarrollador Web especializado en Front-End, pero también tengo conocim
 
 Front-End: HTML, CSS, Sass, JavaScript, React
 
-Back-End: PHP
+Back-End: PHP, Node.js
 
-Bases de Datos: MySQL, SQL Server, Node.js
+Bases de Datos: MySQL, SQL Server
 
 Desarrollo Móvil: React Native
 
