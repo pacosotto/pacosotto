@@ -1,12 +1,15 @@
 🌟 ¡Hola! Soy Pacosotto 👋
+
 Soy un Desarrollador Web especializado en Front-End, pero también tengo conocimientos en Back-End. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías modernas. 🚀
 
 🔧 Tecnologías con las que trabajo:
+
 
 Front-End: HTML, CSS, Sass, JavaScript, React
 Back-End: PHP
 Bases de Datos: MySQL, SQL Server, Node.js
 Desarrollo Móvil: React Native
+
 📚 Siempre estoy aprendiendo y mejorando mis habilidades para estar al día con las últimas tendencias y tecnologías en el mundo del desarrollo web.
 
 🌱 Proyectos recientes:
