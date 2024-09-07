@@ -17,6 +17,10 @@ Desarrollo Móvil: React Native
 
 🌱 Proyectos recientes:
 
+https://github.com/pacosotto/apv_frontend
+
+https://github.com/pacosotto/agenciaviajesnode
+
 https://github.com/pacosotto/Amanecer-Dorado-Hotel
 
 https://github.com/pacosotto/CrediTecApp
