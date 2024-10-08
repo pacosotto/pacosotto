@@ -5,7 +5,7 @@ Soy un Desarrollador Web especializado en Front-End, pero también tengo conocim
 🔧 Tecnologías con las que trabajo:
 
 
-Front-End: HTML, CSS, Sass, JavaScript, React
+Front-End: HTML, CSS, Tailwind, JavaScript, React
 
 Back-End: PHP, Node.js
 
